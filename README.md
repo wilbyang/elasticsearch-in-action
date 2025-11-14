@@ -27,6 +27,7 @@ Here's the TOC
 15. [Performance and Troubleshooting](https://github.com/madhusudhankonda/elasticsearch-in-action/blob/561c45d7991e8a1766a98ba1a58b0f0d836fc1fd/kibana_scripts/ch_15_performance_and_trouble_shooting.txt)
 16. [Appendix A: Installing and configuring Elasticsearch and Kibana](https://github.com/madhusudhankonda/elasticsearch-in-action/wiki/Appendix-A:-Installation)
 17. [Appendix B: Ingest Pipelines](https://github.com/madhusudhankonda/elasticsearch-in-action/blob/561c45d7991e8a1766a98ba1a58b0f0d836fc1fd/kibana_scripts/appendix_ingest_pipelines.txt)
+18. [Transforms](https://github.com/madhusudhankonda/elasticsearch-in-action/blob/main/kibana_scripts/ch16_transforms.txt)
 
 ## Disabling XPack Security for 8.x
 By default, 8.x version of Elasticsearch comes with security enabled. For simplicity and not getting the security in our way, we can disable the feature
